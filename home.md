@@ -1,4 +1,4 @@
 [Glossary](Glossary)
-[Format][Format]
-[Basic Routine][Basic Routine]
-[Lion Fight][Lion Fight]
+[Format](Format)
+[Basic Routine](Basic Routine)
+[Lion Fight](Lion Fight)
