@@ -1,42 +1,3 @@
-# Glossary 
-* **Bows**
-* **Highwalk**
-* **Rises**
-* **Low Walk**
-* Tricks
-	* **Front Tower**
-	* **1 Leg Front Tower**
-	* **Headsit**
-	* **Spider
-	* **Donkeykicks
-	* **Bicycle Kick**``
-# Format
-> CAST
-> if one lion does one, other lions do others
-## Section
-
-### Version 1
-Short Description (x\<N Repetitions>)
-	* Elaboration if Necessary
-### Version 2
-Short Description
-	* Elaboration if Necessary
-
-
---- 
-# Basic Routine
-## Bows
-## Highwalk
-## Rises
-
-## Lowwalk
-
-## Highwalk
-
-## Bows
-* Flipout
-
----
 # Lion Fight
 
 > CAST
@@ -81,6 +42,4 @@ Short Description
 * Lions Switch 
 * Celebration!
 * Short Bows to Audience
-
-
 # Drunk Lion (TBD)
