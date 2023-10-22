@@ -1,4 +1,6 @@
-# Some Stuff to start
+# Wiki Tutorial!
+
+## Some Stuff to start
 - **Culd Wiki** is written in [Markdown](https://www.markdownguide.org/basic-syntax/). A Lightweight format for styling pages. 
 - The Website is hosted using **Github Pages** This page will take you through the workflow for how to modify CULD Wiki! For now, we will only allow E-Board Collaborators, but it may change depending on how useful this website ends up being!
 
