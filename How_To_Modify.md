@@ -9,11 +9,11 @@
 
 > If you already have Github, then start by Selecting the relevant Repository, and click **Pull Origin** (see the image below) before modifying things, to make sure you're in sync with everyone else!
 
-![[Pull.webp]]
+!(A Picture of where Pull Origin is)[Pull.webp]
 
 # Editing the Files
-* You should see something like you see below! From here, open one of the markdown Files with a markdown editor
-![[page1.png]]
+* Now Open the folder you cloned into. You should see something like you see below! From here, open one of the markdown Files with a markdown editor
+!(A Picture showing the files)[page1.png]
 ## Markdown Editors 
 * I haven't used [Caret](https://caret.io/), But it seems like it would get the Job Done and is simple enough for what we're looking for
 * If you don't want it to be pretty, you could use [Sublime Text](https://www.sublimetext.com/)
