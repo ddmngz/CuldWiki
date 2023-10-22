@@ -1,5 +1,5 @@
 # Culd Wiki Test
 [Glossary](Glossary)
 [Format](Format)
-[Basic Routine](Basic Routine)
-[Lion Fight](Lion Fight)
+[Basic Routine](Basic_Routine)
+[Lion Fight](Lion_Fight)

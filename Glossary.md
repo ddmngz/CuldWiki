@@ -6,6 +6,6 @@
 	* **Front Tower**
 	* **1 Leg Front Tower**
 	* **Headsit**
-	* **Spider
-	* **Donkeykicks
+	* **Spider**
+	* **Donkeykicks**
 	* **Bicycle Kick**
