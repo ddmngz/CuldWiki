@@ -3,6 +3,7 @@
 > CAST
 > 
 > CYBERMATCHA: STAGE RIGHT, 
+> 
 > BOK CHOY: STAGE LEFT, THE REACTOR
 
 
@@ -23,7 +24,6 @@
 
 
 ## Attack 1
-
 ### High Impact:
 * **CM:** Shuffle Back
 * **BC:** Bicycle Kicks 
@@ -42,8 +42,8 @@
 **Lion 2**: Jump Back
 
 ## Attack 3
-**CM:** Double Beard Clean
-**BC** : Knock Down, Get Back Up
+**CM:**: Double Beard Clean
+**BC**: Knock Down, Get Back Up 
 
 ## Fighting Ends
 
