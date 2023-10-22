@@ -1,6 +1,7 @@
 # Format
 > CAST
-> if one lion does one, other lions do others
+ if one lion does one, other lions do others
+
 ## Section
 
 ### Version 1
