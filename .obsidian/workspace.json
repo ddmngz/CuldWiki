@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4cad9b72cc0d0b",
+        "id": "04b3788937fcba8c",
         "type": "tabs",
         "children": [
           {
-            "id": "d64d153aa7327d57",
+            "id": "935d5a8198a030bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a00192b0e44f8524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lion Fight.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d64d153aa7327d57",
+  "active": "935d5a8198a030bc",
   "lastOpenFiles": [
+    "home.md",
     "Basic Routine.md",
     "Lion Fight.md",
-    "home.md",
     "CULD_show.md",
     "Format.md",
     "Glossary.md",
