@@ -1,6 +1,6 @@
 title: CULD Wiki
 author: Mara Dominguez
-remote_theme: abhinavs/moonwalk 
+remote_theme: ddmngz/moonwalk
 plugins:
 - jekyll-remote-theme 
 
