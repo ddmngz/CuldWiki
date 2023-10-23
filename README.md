@@ -1,4 +1,4 @@
-# CULDRouts.github.io
+# Culd Wiki!
 
 Welcome to the CULD Wiki! Personal Project by Mara Dominguez to try to make a lightweight, easily accessibly and editable information source for [Columbia University Lion Dance](culiondance.org)
 # Some Stuff to start
