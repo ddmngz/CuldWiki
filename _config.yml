@@ -8,3 +8,5 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   show_navbar: true # show horizontal navbar
+  back_home_text: "home.." # customize text for homepage link in post layout
+favicon: "./logo.png" # relative path to site's favicon
