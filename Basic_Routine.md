@@ -6,8 +6,7 @@
 ## [Highwalk](https://www.youtube.com/watch?v=QEn1a7MSebM&list=PLmkGDw9JoOnTxe4-_gSQWwzOIk4Rd-k5O&index=4&pp=iAQB) 
 [beats](https://www.youtube.com/watch?v=9idNpaJE4_0)
 * On click queue, lion pops up, punch head left and right while either staying in hrose stance, walking in a circle, or walking around the stage
-> [!Style]
-> Some people take big steps, some people do little kicks, depending on what you want to do
+> **Style moment:** Some people take big steps, some people do little kicks, depending on what you want to do
 ## [Rises]()
 [beats](https://www.youtube.com/watch?v=QipX9Fky7ts)
 
