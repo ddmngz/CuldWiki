@@ -11,6 +11,8 @@
 [beats](https://www.youtube.com/watch?v=QipX9Fky7ts)
 
 * 3 times, on queue pop up to backwards cross stance and lion looks L->R->L
+* clean R -> L -> R 
+* on queue swing clockwise to popped up looking right, then look left, then drop and set
 * Switch!
 
 ___
