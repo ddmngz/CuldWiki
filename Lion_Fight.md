@@ -2,9 +2,9 @@
 
 > CAST
 > 
-> CYBERMATCHA: STAGE RIGHT, 
+> CYBERMATCHA (lion 1): STAGE RIGHT, 
 > 
-> BOK CHOY: STAGE LEFT, THE REACTOR
+> BOK CHOY (lion 2): STAGE LEFT, THE REACTOR
 
 
 ## Bows / Drama Starts
@@ -41,16 +41,14 @@
 **Lion 1**: Turnaround --> 1 Leg Back Kick
 **Lion 2**: Jump Back
 
+## Monk Interferes
+
+Walks in between CM and BC, tries to stop the fight. BC gets back up and pushkicks the monk away
+
 ## Attack 3
-**CM:**: Double Beard Clean
-**BC**: Knock Down, Get Back Up 
+**CM**: Knock Down, Get Back Up 
+**BC**: Double Beard Clean
 
 ## Fighting Ends
 
-* Lions highwalk at each other, Monk goes in between breaking them up
-
-## Outro
-* Lions Switch 
-* Celebration!
-* Short Bows to Audience
-
+* Lions highwalk at each other, Monk goes in between breaking them up, gives them Cabbages, continue from cabbages!! :)
