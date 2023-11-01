@@ -15,12 +15,12 @@
 
 ## Taunting
 * Lions Circle: (High/Low) Cross stance -> Horse stance -> Loop
-	* **CM: Start High**
-	* **BC: Start Low**
+
+
 * Initial Interaction: 
 	* **CM: Step back**
-	* **BC: sweep kick**
-	* Repeat again but Lion 1 sweeps
+	* **BC: Front Kick**
+	* Repeat again but Lion 1 Kicks
 
 
 ## Attack 1
@@ -30,7 +30,7 @@
 	* Lift where Base walks forward and Head does Kicks
 ### Low Impact:
 * **CM**: 3 Steps Back
-* **BC**: 3 Beard Cleans + Switch
+* **BC**: 3 Beard Cleans 
 
 
 ## Attack 2
@@ -51,4 +51,6 @@ Walks in between CM and BC, tries to stop the fight. BC gets back up and pushkic
 
 ## Fighting Ends
 
+* Switch
 * Lions highwalk at each other, Monk goes in between breaking them up, gives them Cabbages, continue from cabbages!! :)
+	* Note, the cabbage approaches will be skewed so that the lions don't bump into each other (so like CM will do middle -> far right -> right)
